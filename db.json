@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "movies" :[
+      {"id":1, "name":"Avenger"},
+      {"id":2, "name":"Avenger 1"},
+      {"id":3, "name":"Avenger 2"},
+  ]
 }
