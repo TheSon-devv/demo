@@ -1,16 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "movies": [
     { "id":1,"name": "Avenger"},
     { "id":2,"name": "Avenger 1"},
     { "id":3,"name": "Avenger 2"}
+  ],
+  "book": [
+    { "id":1,"name":"Thép đã tôi thế đấy","nxb":"The Son"},
+    { "id":2,"name":"Những chú chim ","nxb":"The Son"},
+    { "id":3,"name":"Tình yêu và tham vọng","nxb":"The Son"},
+    { "id":4,"name":"Ông già","nxb":"The Son"}
   ]
 }
