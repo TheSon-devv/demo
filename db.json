@@ -7,22 +7,22 @@
   "book": [
     { "id":1,"name":"Thép đã tôi thế đấy","nxb":"The Son","price":"12000",
       "image":[
-      {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"}
+      {"url":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"}
       ]
     },
     { "id":2,"name":"Những chú chim ","nxb":"The Son","price":"15000",
       "image":[
-      {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
+      {"url":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ]
     },
     { "id":3,"name":"Tình yêu và tham vọng","nxb":"The Son","price":"20000",
       "image":[
-      {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
+      {"url":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ]
     },
     { "id":4,"name":"Ông già","nxb":"The Son","price":"21000",
       "image":[
-      {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
+      {"url":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ]
     }
   ]
