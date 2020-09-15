@@ -1,9 +1,4 @@
 {
-  "movies": [
-    { "id":1,"name": "Avenger"},
-    { "id":2,"name": "Avenger 1"},
-    { "id":3,"name": "Avenger 2"}
-  ],
   "book": [
     { "id":1,
       "images":[
@@ -31,5 +26,39 @@
       ],
       "name":"Ông già","nxb":"The Son","price":"21000"
     }
+  ],
+  "banner" : [
+      {
+        "id":1,
+        "images":[
+          {
+              "uri": "https://eklowtyfe71xx12dxgsa9d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/Banner-Tientrongtui-SL1200x628.jpg"
+          }
+        ]
+      },
+      {
+        "id":2,
+        "images":[
+          {
+              "uri": "https://eklowtyfe71xx12dxgsa9d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/Banner-Tientrongtui-SL1200x628.jpg"
+          }
+        ]
+      },
+      {
+        "id":3,
+        "images":[
+          {
+              "uri": "https://eklowtyfe71xx12dxgsa9d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/Banner-Tientrongtui-SL1200x628.jpg"
+          }
+        ]
+      },
+      {
+        "id":4,
+        "images":[
+          {
+              "uri": "https://eklowtyfe71xx12dxgsa9d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/Banner-Tientrongtui-SL1200x628.jpg"
+          }
+        ]
+      }
   ]
 }
