@@ -6,25 +6,25 @@
             "uri": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"
         }
       ],
-      "name":"Thép đã tôi thế đấy","price":"12000"
+      "name":"Digital Marketing","price":"120.000 VND"
     },
     { "id":2,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ],
-      "name":"Những chú chim be nho","price":"15000"
+      "name":"Càng độc lập càng cao quý","price":"150.000 VND"
     },
     { "id":3,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ],
-      "name":"Tình yêu và tham vọng","price":"20000"
+      "name":"Bạn là ai trong mắt người khác","price":"200.000 VND"
     },
     { "id":4,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ],
-      "name":"Ông già","price":"21000"
+      "name":"Hỏi đáp","price":"120.000 VND"
     }
   ],
   "banner" : [
