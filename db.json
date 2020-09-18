@@ -63,14 +63,30 @@
   ],
   "customer" : [
         {
-        "id" : 1,"name" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách sỉ","used" : "160.000 - 3sp"
+        "id" : 1,"name" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách sỉ","used" : "160.000 - 3sp","acronymName" : "S"
         },
         {
-        "id" : 2,"name" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "120.000 - 2sp"
+        "id" : 2,"name" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "120.000 - 2sp","acronymName" : "H"
         },
         {
-        "id" : 3,"name" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "200.000 - 4sp"
-        }
+        "id" : 3,"name" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "200.000 - 4sp","acronymName" : "T"
+        },
+        {
+          "id" : 4,"name" : "Nguyễn Hoàng Long","phone" : "0942151255","sile" : "Khách lẻ","used" : "250.000 - 2sp","acronymName" : "L"
+        },
+        {
+          "id" : 5,"name" : "Nguyễn Ngọc Hiền","phone" : "0911526283","sile" : "Khách sỉ","used" : "110.000 - 1sp","acronymName" : "H"
+        },
+        {
+          "id" : 6,"name" : "Nguyễn Thị Thu Phương","phone" : "0792411242","sile" : "Khách lẻ","used" : "290.000 - 4sp","acronymName" : "P"
+        },
+        {
+          "id" : 7,"name" : "Trương Anh Vinh","phone" : "0951142511","sile" : "Khách lẻ","used" : "120.000 - 2sp","acronymName" : "V"
+        },
+        {
+          "id" : 8,"name" : "Dương Bá Đức","phone" : "0912522681","sile" : "Khách lẻ","used" : "170.000 - 2sp","acronymName" : "D"
+        },
+          
   ]
 
 }
