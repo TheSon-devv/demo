@@ -60,5 +60,17 @@
           }
         ]
       }
+  ],
+  "customer" : [
+        {
+        "id" : 1,"name" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách sỉ","used" : "160.000 - 3sp"
+        },
+        {
+        "id" : 2,"name" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "120.000 - 2sp"
+        },
+        {
+        "id" : 3,"name" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "200.000 - 4sp"
+        }
   ]
+
 }
