@@ -6,25 +6,55 @@
             "uri": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"
         }
       ],
-      "name":"Digital Marketing","price":"120.000 VND"
+      "name":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0"
     },
     { "id":2,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ],
-      "name":"Càng độc lập càng cao quý","price":"150.000 VND"
+      "name":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5"
     },
     { "id":3,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ],
-      "name":"Bạn là ai trong mắt người khác","price":"200.000 VND"
+      "name":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0"
     },
     { "id":4,
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ],
-      "name":"Hỏi đáp","price":"120.000 VND"
+      "name":"Hỏi đáp","price":"120.000 VND","exist":"6","sale":"6"
+    },
+    { "id":5,
+      "images":[
+        {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24692.jpg?v=1&w=200&h=292"}
+      ],
+      "name":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0"
+    },
+    { "id":6,
+      "images":[
+        {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26674.jpg?v=1&w=200&h=292"}
+      ],
+      "name":"Toi la trum sau man","price":"100.000 VND","exist":"0","sale":"0"
+    },
+    { "id":7,
+      "images":[
+        {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/25036.jpg?v=1&w=200&h=292"}
+      ],
+      "name":"Tu ay trong tim toi co mot nguoi","price":"150.000 VND","exist":"3","sale":"3"
+    },
+    { "id":8,
+      "images":[
+        {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26703.jpg?v=1&w=200&h=292"}
+      ],
+      "name":"The 30-Day Money Cleanse: Ky nang quan ly tai chinh ca nhan trong 30 ngay","price":"180.000 VND","exist":"6","sale":"6"
+    },
+    { "id":9,
+      "images":[
+        {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26125.jpg?v=1&w=200&h=292"}
+      ],
+      "name":"Phep mau de tro thanh chinh minh","price":"120.000 VND","exist":"-10","sale":"0"
     }
   ],
   "banner" : [
