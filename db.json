@@ -1,6 +1,6 @@
 {
   "book": [
-    { "id":1,
+    { "id": "B1",
       "images":[
         {
             "uri": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"
@@ -8,135 +8,121 @@
       ],
       "nameBook":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0"
     },
-    { "id":2,
+    { "id":"B2",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5"
     },
-    { "id":3,
+    { "id":"B3",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0"
     },
-    { "id":4,
+    { "id":"B4",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ],
       "nameBook":"Hỏi đáp","price":"120.000 VND","exist":"6","sale":"6"
     },
-    { "id":5,
+    { "id":"B5",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24692.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0"
     },
-    { "id":6,
+    { "id":"B6",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26674.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Toi la trum sau man","price":"100.000 VND","exist":"0","sale":"0"
     },
-    { "id":7,
+    { "id":"B7",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/25036.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Tu ay trong tim toi co mot nguoi","price":"150.000 VND","exist":"3","sale":"3"
     },
-    { "id":8,
+    { "id":"B8",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26703.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"The 30-Day Money Cleanse: Ky nang quan ly tai chinh ca nhan trong 30 ngay","price":"180.000 VND","exist":"6","sale":"6"
     },
-    { "id":9,
+    { "id":"B9",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26125.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"Phep mau de tro thanh chinh minh","price":"120.000 VND","exist":"-10","sale":"0"
     }
   ],
-  "banner" : [
-      {
-        "id":1,
-        "images":[
-          {
-              "uri": "https://eklowtyfe71xx12dxgsa9d4-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/Banner-Tientrongtui-SL1200x628.jpg"
-          }
-        ]
-      },
-      {
-        "id":2,
-        "images":[
-          {
-              "uri": "https://thaihabooks.com/wp-content/uploads/2019/09/Banner-s%C3%A1ch-m%E1%BB%9Bi-th%C3%A1ng-9.2019-01.jpg"
-          }
-        ]
-      },
-      {
-        "id":3,
-        "images":[
-          {
-              "uri": "https://isachhay.net/wp-content/uploads/2018/03/banner-sach-tieng-anh-hay-nen-doc.jpg"
-          }
-        ]
-      },
-      {
-        "id":4,
-        "images":[
-          {
-              "uri": "https://www.khaitam.com/Data/Sites/1/media/chia-se-sach-hay.png"
-          }
-        ]
-      }
-  ],
   "customer" : [
         {
-        "id" : 1,"nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách sỉ","used" : "160.000 - 3sp","acronymName" : "S"
+          "id" : "KH01","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách lẻ","used" : "120.000","acronymName" : "S",
+          "sex":"Nam","address":"Hải Dương","bill":"1","price":"120.000 VND","date":"13/8","ma":"1233456"
         },
         {
-        "id" : 2,"nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "120.000 - 2sp","acronymName" : "H"
+          "id" : "KH02","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "300.000","acronymName" : "H",
+          "sex":"Nam","address":"Vĩnh Phúc","bill":"2","price":"300.000 VND","date":"13/8","ma":"1123125"
         },
         {
-        "id" : 3,"nameCustomer" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "200.000 - 4sp","acronymName" : "T"
+          "id" : "KH03","nameCustomer" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "340.000","acronymName" : "T",
+          "sex":"Nam","address":"Nam Định","bill":"2","price":"340.000 VND","date":"27/8","ma":"1233026"
         },
         {
-          "id" : 4,"nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255","sile" : "Khách lẻ","used" : "250.000 - 2sp","acronymName" : "L"
+          "id" : "KH04","nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255","sile" : "Khách lẻ","used" : "400.000","acronymName" : "L",
+          "sex":"Nam","address":"Hà Nội","bill":"4","price":"400.000 VND","date":"15/8","ma":"1213456"
         },
         {
-          "id" : 5,"nameCustomer" : "Nguyễn Ngọc Hiền","phone" : "0911526283","sile" : "Khách sỉ","used" : "110.000 - 1sp","acronymName" : "H"
+          "id" : "KH05","nameCustomer" : "Nguyễn Ngọc Hiền","phone" : "0911526283","sile" : "Khách sỉ","used" : "500.000","acronymName" : "H",
+          "sex":"Nữ","address":"Quảng Ninh","bill":"5","price":"500.000 VND","date":"15/8","ma":"1233022"
         },
         {
-          "id" : 6,"nameCustomer" : "Nguyễn Thị Thu Phương","phone" : "0792411242","sile" : "Khách lẻ","used" : "290.000 - 4sp","acronymName" : "P"
+          "id" : "KH06","nameCustomer" : "Nguyễn Thị Thu Phương","phone" : "0792411242","sile" : "Khách lẻ","used" : "340.000","acronymName" : "P",
+          "sex":"Nữ","address":"Nam Định","bill":"2","price":"340.000 VND","date":"21/8","ma":"1233126"
         },
         {
-          "id" : 7,"nameCustomer" : "Trương Anh Vinh","phone" : "0951142511","sile" : "Khách lẻ","used" : "120.000 - 2sp","acronymName" : "V"
+          "id" : "KH07","nameCustomer" : "Trương Anh Vinh","phone" : "0951142511","sile" : "Khách lẻ","used" : "200.000","acronymName" : "V",
+          "sex":"Nam","address":"Ninh Bình","bill":"2","price":"200.000 VND","date":"18/8","ma":"1233027"
         },
         {
-          "id" : 8,"nameCustomer" : "Dương Bá Đức","phone" : "0912522681","sile" : "Khách lẻ","used" : "170.000 - 2sp","acronymName" : "D"
+          "id" : "KH08","nameCustomer" : "Dương Bá Đức","phone" : "0912522681","sile" : "Khách lẻ","used" : "120.000","acronymName" : "D",
+          "sex":"Nam","address":"Nam Định","bill":"1","price":"120.000 VND","date":"17/8","ma":"1231456"
         }
   ],
   "bill": [
     {
-      "id":1,"ma":"1233456","date":"13/8 - 1","time":"13:21","nameBook":"Digital Marketing",
+      "id":1,"ma":"1233456","date":"13/8","time":"13:21","bill":"1","nameBook":"Digital Marketing",
       "price":"120.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
     },
     {
-      "id":2,"ma":"1123125","date":"13/8 - 2","time":"15:32","nameBook":"Càng độc lập càng cao quý",
+      "id":2,"ma":"1123125","date":"13/8","time":"15:32","bill":"2","nameBook":"Càng độc lập càng cao quý",
       "price":"300.000 VND","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325"
     },
     {
-      "id":3,"ma":"1213456","date":"15/8 - 4","time":"17:21","nameBook":"Toi la trum sau man",
+      "id":3,"ma":"1213456","date":"15/8","time":"17:21","bill":"4","nameBook":"Toi la trum sau man",
       "price":"400.000 VND","nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255"
     },
     {
-      "id":4,"ma":"1231456","date":"17/8 - 1","time":"19:40","nameBook":"Phep mau de tro thanh chinh minh",
+      "id":4,"ma":"1231456","date":"17/8","time":"19:40","bill":"1","nameBook":"Phep mau de tro thanh chinh minh",
       "price":"120.000 VND","nameCustomer" : "Dương Bá Đức","phone" : "0912522681"
     },
     {
-      "id":5,"ma":"1233126","date":"21/8 - 2","time":"14:10","nameBook":"Cách tạo ra những sản phẩm trường tổn",
+      "id":5,"ma":"1233126","date":"21/8","time":"14:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
       "price":"340.000 VND","nameCustomer" : "Nguyễn Thị Thu Phương","phone" : "0792411242"
+    },
+    {
+      "id":6,"ma":"1233026","date":"27/8","time":"20:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
+      "price":"340.000 VND","nameCustomer" : "Đặng Huy Tú","phone" : "0915251822"
+    },
+    {
+      "id":7,"ma":"1233022","date":"15/8","time":"21:10","bill":"5","nameBook":"Bạn là ai trong mắt người khác",
+      "price":"500.000 VND","nameCustomer" : "Nguyễn Ngọc Hiền","phone" : "0911526283"
+    },
+    {
+      "id":8,"ma":"1233027","date":"18/8","time":"15:10","bill":"2","nameBook":"Bạn là ai trong mắt người khác",
+      "price":"200.000 VND","nameCustomer" : "Trương Anh Vinh","phone" : "0951142511"
     }
   ]
 
