@@ -97,8 +97,17 @@
       "price":"120.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
     },
     {
-      "id":2,"ma":"1123125","date":"13/8","time":"15:32","bill":"2","nameBook":"Càng độc lập càng cao quý",
-      "price":"300.000 VND","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325"
+      "id":2,"ma":"1123125","date":"13/8",
+      "billInDay": [
+        {  
+          "time":"15:32","bill":"2","nameBook":"Càng độc lập càng cao quý",
+          "price":"300.000 VND","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325"
+        },
+        {  
+          "time":"17:35","bill":"1","nameBook":"Càng độc lập càng cao quý",
+          "price":"150.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
+        }
+      ]
     },
     {
       "id":3,"ma":"1213456","date":"15/8","time":"17:21","bill":"4","nameBook":"Toi la trum sau man",
