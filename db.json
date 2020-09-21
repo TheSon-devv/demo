@@ -6,89 +6,90 @@
             "uri": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"
         }
       ],
-      "nameBook":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0"
+      "nameBook":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Claudio Torres","tt":"Mới","input":"11/3"
     },
     { "id":"B2",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5"
+      "nameBook":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5","nxb":"Vãn Tình","tt":"Mới","input":"17/3"
     },
     { "id":"B3",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0"
+      "nameBook":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0","nxb":"Seth Price, Barry Feldman","tt":"Mới","input":"21/3"
     },
     { "id":"B4",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ],
-      "nameBook":"Hỏi đáp","price":"120.000 VND","exist":"6","sale":"6"
+      "nameBook":"Hỏi đáp về chủng Virus Corona mới 2019","price":"120.000 VND","exist":"6","sale":"6","nxb":"NXB Thông Tin Và Truyền Thông","tt":"Mới","input":"27/3"
     },
     { "id":"B5",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24692.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0"
+      "nameBook":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0","nxb":"Ryan Holiday","tt":"Mới","input":"12/4"
     },
     { "id":"B6",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26674.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Toi la trum sau man","price":"100.000 VND","exist":"0","sale":"0"
+      "nameBook":"Tôi là trùm sau màn","price":"100.000 VND","exist":"0","sale":"0","nxb":"Nhất Đao Trảm Trảm Trảm","tt":"Mới","input":"25/3"
     },
     { "id":"B7",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/25036.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Tu ay trong tim toi co mot nguoi","price":"150.000 VND","exist":"3","sale":"3"
+      "nameBook":"Từ ấy trong tôi có một người","price":"150.000 VND","exist":"3","sale":"3","nxb":"Thời Cửu","tt":"Mới","input":"16/4"
     },
     { "id":"B8",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26703.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"The 30-Day Money Cleanse: Ky nang quan ly tai chinh ca nhan trong 30 ngay","price":"180.000 VND","exist":"6","sale":"6"
+      "nameBook":"The 30-Day Money Cleanse: Ky nang quan ly tai chinh ca nhan trong 30 ngay","price":"180.000 VND",
+      "exist":"6","sale":"6","nxb":"Ashley Feinstein Gertsley","tt":"Mới","input":"12/4"
     },
     { "id":"B9",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26125.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Phep mau de tro thanh chinh minh","price":"120.000 VND","exist":"-10","sale":"0"
+      "nameBook":"Phép màu để trở thành chính mình","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Nhan Húc Quân","tt":"Mới","input":"14/4"
     }
   ],
   "customer" : [
         {
           "id" : "KH01","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479","sile" : "Khách lẻ","used" : "120.000","acronymName" : "S",
-          "sex":"Nam","address":"Hải Dương","bill":"1","price":"120.000 VND","date":"13/8","ma":"1233456"
+          "sex":"Nam","address":"Hải Dương","bill":"1","price":"120.000 VND","date":"23/9","ma":"1233456"
         },
         {
           "id" : "KH02","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325","sile" : "Khách lẻ","used" : "300.000","acronymName" : "H",
-          "sex":"Nam","address":"Vĩnh Phúc","bill":"2","price":"300.000 VND","date":"13/8","ma":"1123125"
+          "sex":"Nam","address":"Vĩnh Phúc","bill":"2","price":"300.000 VND","date":"","ma":"1123125"
         },
         {
           "id" : "KH03","nameCustomer" : "Đặng Huy Tú","phone" : "0915251822","sile" : "Khách lẻ","used" : "340.000","acronymName" : "T",
-          "sex":"Nam","address":"Nam Định","bill":"2","price":"340.000 VND","date":"27/8","ma":"1233026"
+          "sex":"Nam","address":"Nam Định","bill":"2","price":"340.000 VND","date":"20/9","ma":"1233026"
         },
         {
           "id" : "KH04","nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255","sile" : "Khách lẻ","used" : "400.000","acronymName" : "L",
-          "sex":"Nam","address":"Hà Nội","bill":"4","price":"400.000 VND","date":"15/8","ma":"1213456"
+          "sex":"Nam","address":"Hà Nội","bill":"4","price":"400.000 VND","date":"22/9","ma":"1213456"
         },
         {
           "id" : "KH05","nameCustomer" : "Nguyễn Ngọc Hiền","phone" : "0911526283","sile" : "Khách sỉ","used" : "500.000","acronymName" : "H",
-          "sex":"Nữ","address":"Quảng Ninh","bill":"5","price":"500.000 VND","date":"15/8","ma":"1233022"
+          "sex":"Nữ","address":"Quảng Ninh","bill":"5","price":"500.000 VND","date":"15/9","ma":"1233022"
         },
         {
           "id" : "KH06","nameCustomer" : "Nguyễn Thị Thu Phương","phone" : "0792411242","sile" : "Khách lẻ","used" : "340.000","acronymName" : "P",
-          "sex":"Nữ","address":"Nam Định","bill":"2","price":"340.000 VND","date":"21/8","ma":"1233126"
+          "sex":"Nữ","address":"Nam Định","bill":"2","price":"340.000 VND","date":"21/9","ma":"1233126"
         },
         {
           "id" : "KH07","nameCustomer" : "Trương Anh Vinh","phone" : "0951142511","sile" : "Khách lẻ","used" : "200.000","acronymName" : "V",
-          "sex":"Nam","address":"Ninh Bình","bill":"2","price":"200.000 VND","date":"18/8","ma":"1233027"
+          "sex":"Nam","address":"Ninh Bình","bill":"2","price":"200.000 VND","date":"14/9","ma":"1233027"
         },
         {
           "id" : "KH08","nameCustomer" : "Dương Bá Đức","phone" : "0912522681","sile" : "Khách lẻ","used" : "120.000","acronymName" : "D",
-          "sex":"Nam","address":"Nam Định","bill":"1","price":"120.000 VND","date":"17/8","ma":"1231456"
+          "sex":"Nam","address":"Nam Định","bill":"1","price":"120.000 VND","date":"21/9","ma":"1231456"
         }
   ],
   "bill": [
@@ -101,11 +102,11 @@
       "price":"300.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
     },
     {
-      "id":3,"ma":"1213456","date":"22/9","time":"17:21","bill":"4","nameBook":"Toi la trum sau man",
+      "id":3,"ma":"1213456","date":"22/9","time":"17:21","bill":"4","nameBook":"Tôi là trùm sau màn",
       "price":"400.000 VND","nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255"
     },
     {
-      "id":4,"ma":"1231456","date":"21/9","time":"19:40","bill":"1","nameBook":"Phep mau de tro thanh chinh minh",
+      "id":4,"ma":"1231456","date":"21/9","time":"19:40","bill":"1","nameBook":"Phép màu để trở thành chính mình",
       "price":"120.000 VND","nameCustomer" : "Dương Bá Đức","phone" : "0912522681"
     },
     {
