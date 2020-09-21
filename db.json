@@ -93,44 +93,35 @@
   ],
   "bill": [
     {
-      "id":1,"ma":"1233456","date":"13/8","time":"13:21","bill":"1","nameBook":"Digital Marketing",
+      "id":1,"ma":"1233456","date":"23/9","time":"13:21","bill":"1","nameBook":"Digital Marketing",
       "price":"120.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
     },
     {
-      "id":2,"ma":"1123125","date":"13/8",
-      "billInDay": [
-        {  
-          "time":"15:32","bill":"2","nameBook":"Càng độc lập càng cao quý",
-          "price":"300.000 VND","nameCustomer" : "Phan Bá Hiếu","phone" : "0922411325"
-        },
-        {  
-          "time":"17:35","bill":"1","nameBook":"Càng độc lập càng cao quý",
-          "price":"150.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
-        }
-      ]
+      "id":2,"ma":"1123125","date":"23/9","time":"15:32","bill":"2","nameBook":"Càng độc lập càng cao quý",
+      "price":"300.000 VND","nameCustomer" : "Nguyễn Thế Sơn","phone" : "0967386479"
     },
     {
-      "id":3,"ma":"1213456","date":"15/8","time":"17:21","bill":"4","nameBook":"Toi la trum sau man",
+      "id":3,"ma":"1213456","date":"22/9","time":"17:21","bill":"4","nameBook":"Toi la trum sau man",
       "price":"400.000 VND","nameCustomer" : "Nguyễn Hoàng Long","phone" : "0942151255"
     },
     {
-      "id":4,"ma":"1231456","date":"17/8","time":"19:40","bill":"1","nameBook":"Phep mau de tro thanh chinh minh",
+      "id":4,"ma":"1231456","date":"21/9","time":"19:40","bill":"1","nameBook":"Phep mau de tro thanh chinh minh",
       "price":"120.000 VND","nameCustomer" : "Dương Bá Đức","phone" : "0912522681"
     },
     {
-      "id":5,"ma":"1233126","date":"21/8","time":"14:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
+      "id":5,"ma":"1233126","date":"21/9","time":"14:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
       "price":"340.000 VND","nameCustomer" : "Nguyễn Thị Thu Phương","phone" : "0792411242"
     },
     {
-      "id":6,"ma":"1233026","date":"27/8","time":"20:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
+      "id":6,"ma":"1233026","date":"20/9","time":"20:10","bill":"2","nameBook":"Cách tạo ra những sản phẩm trường tổn",
       "price":"340.000 VND","nameCustomer" : "Đặng Huy Tú","phone" : "0915251822"
     },
     {
-      "id":7,"ma":"1233022","date":"15/8","time":"21:10","bill":"5","nameBook":"Bạn là ai trong mắt người khác",
+      "id":7,"ma":"1233022","date":"15/9","time":"21:10","bill":"5","nameBook":"Bạn là ai trong mắt người khác",
       "price":"500.000 VND","nameCustomer" : "Nguyễn Ngọc Hiền","phone" : "0911526283"
     },
     {
-      "id":8,"ma":"1233027","date":"18/8","time":"15:10","bill":"2","nameBook":"Bạn là ai trong mắt người khác",
+      "id":8,"ma":"1233027","date":"14/9","time":"15:10","bill":"2","nameBook":"Bạn là ai trong mắt người khác",
       "price":"200.000 VND","nameCustomer" : "Trương Anh Vinh","phone" : "0951142511"
     }
   ]
