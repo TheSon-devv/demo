@@ -6,49 +6,49 @@
             "uri": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24248.jpg?v=1&w=200&h=292"
         }
       ],
-      "nameBook":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Claudio Torres","tt":"Mới","input":"11/3",
+      "nameBook":"Digital Marketing","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Claudio Torres","tt":"Mới","input":"11/3"
       
     },
     { "id":"B2",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24372.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5","nxb":"Vãn Tình","tt":"Mới","input":"17/3",
+      "nameBook":"Càng độc lập càng cao quý","price":"150.000 VND","exist":"5","sale":"5","nxb":"Vãn Tình","tt":"Mới","input":"17/3"
       
     },
     { "id":"B3",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24743.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0","nxb":"Seth Price, Barry Feldman","tt":"Mới","input":"21/3",
+      "nameBook":"Bạn là ai trong mắt người khác","price":"200.000 VND","exist":"-2","sale":"0","nxb":"Seth Price, Barry Feldman","tt":"Mới","input":"21/3"
       
     },
     { "id":"B4",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24949.jpg?v=2&w=200&h=292"}
       ],
-      "nameBook":"Hỏi đáp về chủng Virus Corona mới 2019","price":"120.000 VND","exist":"6","sale":"6","nxb":"NXB Thông Tin Và Truyền Thông","tt":"Mới","input":"27/3",
+      "nameBook":"Hỏi đáp về chủng Virus Corona mới 2019","price":"120.000 VND","exist":"6","sale":"6","nxb":"NXB Thông Tin Và Truyền Thông","tt":"Mới","input":"27/3"
       
     },
     { "id":"B5",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/24692.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0","nxb":"Ryan Holiday","tt":"Mới","input":"12/4",
+      "nameBook":"Cách tạo ra những sản phẩm trường tổn","price":"170.000 VND","exist":"-4","sale":"0","nxb":"Ryan Holiday","tt":"Mới","input":"12/4"
       
     },
     { "id":"B6",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26674.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Tôi là trùm sau màn","price":"100.000 VND","exist":"0","sale":"0","nxb":"Nhất Đao Trảm Trảm Trảm","tt":"Mới","input":"25/3",
-      
+      "nameBook":"Tôi là trùm sau màn","price":"100.000 VND","exist":"0","sale":"0","nxb":"Nhất Đao Trảm Trảm Trảm","tt":"Mới","input":"25/3"
+    
     },
     { "id":"B7",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/25036.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Từ ấy trong tôi có một người","price":"150.000 VND","exist":"3","sale":"3","nxb":"Thời Cửu","tt":"Mới","input":"16/4",
+      "nameBook":"Từ ấy trong tôi có một người","price":"150.000 VND","exist":"3","sale":"3","nxb":"Thời Cửu","tt":"Mới","input":"16/4"
       
     },
     { "id":"B8",
@@ -56,15 +56,15 @@
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26703.jpg?v=1&w=200&h=292"}
       ],
       "nameBook":"The 30-Day Money Cleanse: Ky nang quan ly tai chinh ca nhan trong 30 ngay","price":"180.000 VND",
-      "exist":"6","sale":"6","nxb":"Ashley Feinstein Gertsley","tt":"Mới","input":"12/4",
+      "exist":"6","sale":"6","nxb":"Ashley Feinstein Gertsley","tt":"Mới","input":"12/4"
       
     },
     { "id":"B9",
       "images":[
         {"uri":"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/26125.jpg?v=1&w=200&h=292"}
       ],
-      "nameBook":"Phép màu để trở thành chính mình","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Nhan Húc Quân","tt":"Mới","input":"14/4",
-     
+      "nameBook":"Phép màu để trở thành chính mình","price":"120.000 VND","exist":"-10","sale":"0","nxb":"Nhan Húc Quân","tt":"Mới","input":"14/4"
+
     }
   ],
   "customer" : [
